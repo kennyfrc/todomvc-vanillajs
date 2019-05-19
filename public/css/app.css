@@ -1,0 +1,12 @@
+#main,
+#footer {
+	display: none;
+}
+
+#main.is-visible {
+	display: block;
+}
+
+#footer.is-visible {
+  display: block; 
+}
